@@ -1,9 +1,8 @@
 # HI3rd-Download-Library
-(https://webstatic.mihoyo.com/upload/static-resource/2023/02/15/c7157e9a2e501f7ea38f4892fea5c0dc_4059480304112113170.mp4)
-
-https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov
+https://user-images.githubusercontent.com/123268164/220697189-5a362fed-3f5a-45ed-b5e0-25b9f73b6443.mp4
 
 [EN](README.md) | [COMING SOON CN LANGUAGE]
+
 
 ## Genshin and Yuanshen Download Links
 ### Tips
@@ -25,7 +24,7 @@ This repository is under the supervision of miHoYo.
 * **autopatchcn** - Yuanshen or 原神
 
 ### What's the difference between _"Genshin"_ and _"Yuanshen"_?
-* **Genshin Impact** - Overseas/Global Version
+* **Honkai Impact 3rd** - Overseas/Global Version
 * **Yuanshen** - Chinese Version
 ---
 **Note**: 
