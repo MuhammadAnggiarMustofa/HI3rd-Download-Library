@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/123268164/220697189-5a362fed-3f5a-45ed
 [EN](README.md) | [COMING SOON CN LANGUAGE]
 
 
-## Genshin and Yuanshen Download Links
+## ?????? ??? ???? ???? ?????
 ### Tips
 Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
 
@@ -25,7 +25,7 @@ This repository is under the supervision of miHoYo.
 
 ### What's the difference between _"Genshin"_ and _"Yuanshen"_?
 * **Honkai Impact 3rd** - Overseas/Global Version
-* **Yuanshen** - Chinese Version
+* **崩坏3** - Chinese Version
 ---
 **Note**: 
 * This repository will update from time to time when new version of the game gets released.
