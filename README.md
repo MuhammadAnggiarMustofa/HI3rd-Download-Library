@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/123268164/220697189-5a362fed-3f5a-45ed
 
 ## ?????? ??? ???? ???? ?????
 ### Tips
-Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
+Since the ?.?.? beta, mihoyo has added key and cookie verification to the download link.
 
 <details> 
   <summary>IMPORTANT</summary>
@@ -20,8 +20,8 @@ This repository is under the supervision of miHoYo.
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
 ### What is _"autopatchhk"_ and _"autopatchcn"_
-* **autopatchhk** - Genshin Impact
-* **autopatchcn** - Yuanshen or 原神
+* **?** - Honkai Impact 3rd
+* **?** - 崩坏3
 
 ### What's the difference between _"Genshin"_ and _"Yuanshen"_?
 * **Honkai Impact 3rd** - Overseas/Global Version
